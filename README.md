@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, my name is Michael Vogel and I wish you a wonderful day 👋
+
+I'm a junior web developer at [flagbit](https://github.com/flagbit)
+
+- 🔭 I’m currently working on some personal (unfortunately currently private) project named [bumuta](https://github.com/bumuta)
+- 👯 I’m also implementing some features in [lazybytez/jojo-discord-bot](https://github.com/lazybytez/jojo-discord-bot)
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
+- 📫 You can reach me over the email [Michael-B-G-Vogel@gmx.de](mailto://michael-b-g-vogel@gmx.de)
+
 
 <!--
 **Vogaeael/Vogaeael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
