@@ -27,6 +27,11 @@ I'm a junior web developer at [flagbit](https://github.com/flagbit)
     <a href="https://github.com/vogaeael/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+-----
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vogaeael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vogaeael&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="175px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vogaeael's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogaeael&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="175x" /></a>
+</p>
 
 <!--
 **Vogaeael/Vogaeael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
